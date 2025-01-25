@@ -83,9 +83,3 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhan008&" alt="fahadkhan008" />
 </div
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fahadkhan008/fahadkhan008/output/snake.svg" alt="Snake animation" />
-
-###
