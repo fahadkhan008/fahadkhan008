@@ -3,8 +3,10 @@
   </div>
   
 
-<h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">A passionate modern Web Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Fahad Khan!</h1>
+<h3 align="center">A passionate Programmer from Pakistan</h3>
+<h3 align="center"> I build logic like a coder, craft UI like a designer, and deliver value like a pro 🚀
+</h3>
 
 <img align="right" height="210" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
@@ -12,7 +14,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Threejs and AI/ML**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Python & c++**
 
 - 📫 How to reach me **fahadkhan233144@gmail.com**
 <br>
@@ -79,7 +81,7 @@
 <h2>🔥 GitHub Stats: </h2>
 
 <div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fahadkhan008&show_icons=true&locale=en" alt="fahadkhan008" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fahadkhan008&show_icons=true&locale=en" alt="fahadkhan008" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhan008&" alt="fahadkhan008" /></p>
 
