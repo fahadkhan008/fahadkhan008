@@ -81,9 +81,9 @@
 <h2>🔥 GitHub Stats: </h2>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fahadkhan008&show_icons=true&locale=en" alt="fahadkhan008" /></p>
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=fahadkhan008&show_icons=true&locale=en" alt="fahadkhan008" />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhan008&" alt="fahadkhan008" /></p>
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhan008&" alt="fahadkhan008" />
 
 </div>
 <br clear="both">
