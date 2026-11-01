@@ -4,7 +4,7 @@
   
 
 <h1 align="center">Hi 👋 I'm Fahad Khan!</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
+<h3 align="center">AI/ML Engineer & Full Stack Developer from Lahore, Pakistan 🇵🇰</h3>
 <h3 align="center"> I build logic like a coder, craft UI like a designer, and deliver value like a pro 🚀
 </h3>
 
@@ -71,8 +71,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="15" />
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" 
@@ -133,11 +131,10 @@
   <img src="https://streak-stats.demolab.com/?user=fahadkhan008&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 <br>
-<h2 align="left">🏆 Achievements</h2>
-<h3 align="center">
-  🥇 <b>Three-Time Champion</b>: Tech War Web Development Competition (2024, 2025, 2026)<br/>
-  <sub>Only participant at University of South Asia with a three-year winning streak</sub>
-</h3>
+<h2>🏆 Achievements:</h2>
+
+- 🥇 **Three-Time Champion**: Tech War Web Development Competition (2024, 2025, 2026)
+- Only participant at University of South Asia with a three-year winning streak
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/fahadkhan008/fahadkhan008/output/snake.svg" alt="Snake animation" />
