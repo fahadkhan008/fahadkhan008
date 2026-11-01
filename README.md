@@ -3,28 +3,35 @@
   </div>
   
 
-<h1 align="center">Hi 👋, I'm Fahad Khan!</h1>
+<h1 align="center">Hi 👋 I'm Fahad Khan!</h1>
 <h3 align="center">A passionate Programmer from Pakistan</h3>
 <h3 align="center"> I build logic like a coder, craft UI like a designer, and deliver value like a pro 🚀
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=700&height=50&lines=AI%2FML+Engineer+in+the+making;Full+Stack+Developer+%7C+React+%2B+Next.js+%2B+FastAPI;3x+Tech+War+Web+Dev+Champion;Open+to+AI%2FML+internships+in+Lahore" alt="Typing animation" />
+</p>
+<br>
 <img align="right" height="210" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadkhan008&label=Profile%20views&color=0e75b6&style=flat" alt="fahadkhan008" /> </p>
 
-- 🌱 I’m currently learning **Nextjs, Threejs and AI/ML**
+- 🎓 BS Computer Science student at **University of South Asia, Lahore**
+- 🤖 I build **machine learning systems** and ship them as real web apps
+- 🏆 **3× consecutive champion** of the Tech War Web Development Competition (2024–2026)
+- 🌱 I'm currently learning **Next.js, Three.js, deep learning and advanced ML**
+- 💬 Ask me about **Python, C++, React & Machine Learning**
+- 📫 How to reach me: **fahadkhan233144@gmail.com**
+<br clear="right">
 
-- 💬 Ask me about **Python & c++**
-
-- 📫 How to reach me **fahadkhan233144@gmail.com**
-<br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:fahadkhan233144@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://linkedin.com/in/fahad-khan161204"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://dev-fahad-portfolio.vercel.app"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" /></a>
+  <a href="https://github.com/fahadkhan008"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" /></a>
 </p>
-
+<br>
 <h2 align="left">🛠 Tech Stack:</h2>
 
   <div align="left">
@@ -74,20 +81,69 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
   <img width="15" />
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
-  alt="illustrator" width="30" height="30"/> </a>
-  
+  alt="illustrator" width="30" height="30"/> </a> 
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikit-learn logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="vite logo" />
+  <img width="15" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <img width="15" />
 </div>
+<br>
+<h2 align="left">🚀 Featured Projects:</h2>
 
-<h2>🔥 GitHub Stats: </h2>
+| Project | What it does | Tech |
+|---|---|---|
+| 🫀 [**CardioSense AI**](https://github.com/fahadkhan008/CardioSense-AI-Early-Accurate-Coronary-Heart-Disease-Risk-Prediction) | Predicts 10-year heart disease risk. **88.66% accuracy, 93.77% AUC** on 4,240 patient records | XGBoost, LightGBM, CatBoost, FastAPI, React |
+| 🌐 [**3D Portfolio**](https://dev-fahad-portfolio.vercel.app) | Interactive 3D portfolio with an AI chatbot and dark/light mode | React, TypeScript, Three.js, GSAP, Framer Motion, OpenAI API |
+| 🎵 [**Music Player (C++)**](https://github.com/fahadkhan008/Music-Player) | Terminal music player with playlists, next/previous and autoplay | C++, Doubly Linked List, DSA, OOP |
+| 📊 [**COVID-19 Data Cleaning**](https://github.com/fahadkhan008/COVID-19-Data-Cleaning-and-Visualization) | Cleans a country-wise dataset and builds visualizations | Python, Pandas, NumPy, Matplotlib |
+| 🛋️ [**Forest Furnish**](https://github.com/fahadkhan008/Forest-Furnish) | Responsive furniture store frontend | HTML5, CSS3, Bootstrap |
 
-<div>
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=fahadkhan008&show_icons=true&locale=en" alt="fahadkhan008" />
+<br>
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhan008&" alt="fahadkhan008" />
+<h2 align="left">🔥 GitHub Stats</h2>
 
-</div>
-<br clear="both">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahadkhan008&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahadkhan008&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/fahadkhan008/fahadkhan008/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fahadkhan008&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<br>
+<h2 align="left">🏆 Achievements</h2>
+<h3 align="center">
+  🥇 <b>Three-Time Champion</b>: Tech War Web Development Competition (2024, 2025, 2026)<br/>
+  <sub>Only participant at University of South Asia with a three-year winning streak</sub>
+</h3>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fahadkhan008/fahadkhan008/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%" />
 
 ###
